@@ -1,0 +1,25 @@
+		//FRONT
+        //    //lower left triangle - grabs coordinates (0, 0, 0), (0, 1, 0), and (1, 0, 0) from the vertex array.
+        //    0, 2, 1,
+        //    // upper right triangle 
+        //    2, 3, 1,
+
+        //    //BOTTOM
+        //    6, 0, 4, //lower left
+        //    0, 1, 4,
+
+        //    //BACK
+        //    4, 7, 6,
+        //    4, 5, 7,
+
+        //    //TOP
+        //    2, 7, 3,
+        //    7, 5 ,3, 
+
+        //    //LEFTSIDE
+        //    0, 6, 7,
+        //    7, 2, 0,
+
+        //    //RIGHTSIDE
+        //    3, 4, 1,
+        //    3, 5, 4
